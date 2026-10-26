@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Background: dark espresso with rounded corners -->
+  <rect width="32" height="32" rx="7" fill="#28201C"/>
+  <!-- Border: warm highlight -->
+  <rect width="32" height="32" rx="7" fill="none" stroke="#3E322C" stroke-width="1"/>
+  <!-- CR monogram in warm caramel -->
+  <text
+    x="16"
+    y="21.5"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="13"
+    font-weight="700"
+    fill="#D97736"
+    text-anchor="middle"
+    letter-spacing="-0.5"
+  >CR</text>
+</svg>
