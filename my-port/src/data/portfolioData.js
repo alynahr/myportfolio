@@ -11,7 +11,7 @@ export const portfolioData = {
     location: "Dasmarinas, Cavite, Philippines",
     email: "reyescieloalynah@gmail.com",
     headline: "Transforming real-world requirements into intuitive systems and clean web experiences.",
-    shortBio: "Hi! I'm Cielo, an Information Technology student at National University - Dasmarinas (graduating in 2028) specializing in Mobile and Web Applications. I focus on System Design, Systems Analysis, and Full-Stack Web Development—building practical, end-to-end software solutions like FitPulse Studio.",
+    shortBio: "Hi! I'm Cielo, an Information Technology student at National University - Dasmarinas (graduating in 2028) specializing in Mobile and Web Applications. I focus on System Design, Systems Analysis.",
     aboutText: [
       "I am currently pursuing my Bachelor of Science in Information Technology with a Specialization in Mobile and Web Application (BSIT-MWA) at National University - Dasmarinas, expecting to graduate in 2028.",
       "As an aspiring System Designer and Analyst, I love dissecting real-world problems and creating comprehensive technical solutions: gathering user requirements, structuring relational database schemas, modeling system workflows with UML & ERD, and building responsive, full-stack web applications.",
